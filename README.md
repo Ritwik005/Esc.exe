@@ -32,3 +32,6 @@ Do not, under any curcumstance, give up.
 
 # Good Luck Out There!
 
+*The game was designed to give retro feel with settings for Render Scale and FPS. Unfortunately, I was unable to add a settings panel due to the time limitation. I would recommend exploring the play area as some aspects and components might go unexplored otherwise.*
+
+
